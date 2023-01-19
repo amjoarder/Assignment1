@@ -1,0 +1,307 @@
+* {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header */
+.header {
+
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 76px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+
+}
+
+.header .banner {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: bisque;
+    text-align: right;
+}
+
+.button {
+    color: #005FAC;
+    position: absolute;
+    width: 160px;
+    height: 60px;
+    left: 350px;
+    top: 90px;
+
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+
+    color: #005FAC;
+}
+
+.images {
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+
+/* Main Part */
+.writing {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+.more-writing {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 5px;
+    top: 126px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+
+    /* Dark 02 */
+
+    color: grey;
+
+}
+
+.point {
+    position: absolute;
+    width: 349px;
+    height: 2px;
+    left: 2px;
+    top: 120px;
+}
+
+/* plan */
+.section {}
+
+.heading {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+
+
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+.icon-container {
+    display: flex;
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    left: 230px;
+    top: 1889px;
+}
+
+.photo {
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    border-radius: 8px;
+}
+
+.photo-text {
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2280.96px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+
+
+}
+
+.btn-primary {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2398.96px;
+
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+
+    color: #005FAC;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.footer {
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+
+    /* Dark 01 */
+
+    background: #151414;
+}
+
+.footer-left {}
+
+.future {
+    position: absolute;
+    width: 148px;
+    height: 53px;
+    left: 230px;
+    top: 31.96px;
+
+
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+
+
+    color: #F8F8F8;
+}
+
+.small {
+    position: absolute;
+    width: 485px;
+    height: 78px;
+    left: 230px;
+    top: 100.96px;
+
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+
+    color: #FFFFFF;
+}
+
+.last-icon {
+    display: flex;
+    position: absolute;
+    width: 175px;
+    height: 46px;
+    left: 230px;
+    top: 252.96px;
+}
+
+.email {
+    position: absolute;
+    width: 186px;
+    height: 146px;
+    left: 230px;
+    top: 192.96px;
+    color: #FFFFFF;
+}
+
+.subscribe {
+    position: absolute;
+    width: 123px;
+    height: 29px;
+    left: 1046px;
+    top: 31.96px;
+
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.youremail {
+    position: absolute;
+    width: 325px;
+    height: 4px;
+    left: 1046px;
+    top: 111.96px;
+    background-color: #151414;
+    color: #FFFFFF;
+
+}
+
+.subscribes {
+
+    position: absolute;
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    top: 321.96px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+    background-color: #005FAC;
+    border-radius: 4%;
+}
